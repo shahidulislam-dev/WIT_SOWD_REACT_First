@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1440px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #fff2f3;
+}
+
+.nav-container {
+  background-color: #fff2f3;
+  width: 1322px;
+  height: 91px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.text-logo {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  color: #252b42;
+  margin-left: 100px;
+}
+
+.nav-items {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-items a {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  color: #737373;
+  text-decoration: none;
+}
+
+.buttons-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.buttons-container h4 {
+  margin: 0;
+  color: #96bb7c;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.buttons-container h4:hover{
+ font-size: 16px;
+}
+.buttons-container button {
+  width: 138px;
+  height: 52px;
+  border: #96bb7c;
+  border-radius: 5px;
+  background-color: #96bb7c;
+  color: white;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 250px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.buttons-container button:hover{
+  background-color: #008011;
+}
