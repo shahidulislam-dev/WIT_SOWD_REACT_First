@@ -1,0 +1,60 @@
+.layout-container {
+  width: 1050px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.layout-image {
+  width: 520px;
+  height: 549px;
+}
+.layout-text {
+  width: Fixed (381px) px;
+  height: Hug (296px) px;
+  gap: 35px;
+  opacity: 0px;
+}
+.layout-text h1 {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #252b42;
+}
+.layout-text p{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #737373;
+}
+
+.layout-text a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #96bb7c;
+    text-decoration: none;
+    padding-top: 15px;
+  }
+  .layout-text a:hover {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #96bb7c;
+    text-decoration: underline;
+    padding-top: 15px;
+  }

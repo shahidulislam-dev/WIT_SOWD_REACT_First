@@ -1,0 +1,35 @@
+.footer-container {
+  width: 1050px;
+  margin-top: 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 100px;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-text h5 {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+  color: #252b42;
+}
+/* Align icons and text inline */
+.footer-text p {
+    display: flex;
+    align-items: center; 
+    gap: 10px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #737373;
+  }
+  

@@ -8,10 +8,8 @@ body {
 
 .card {
   width: 1050px;
-  height: 612px;
   margin-left: 400px;
   margin-right: 400px;
-  margin-bottom: 100px;
   padding: 160px 0px 160px 0px;
   gap: 0px;
   display: flex;

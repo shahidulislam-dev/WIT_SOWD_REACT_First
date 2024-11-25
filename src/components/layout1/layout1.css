@@ -1,0 +1,46 @@
+.layout1-container {
+  width: 1050px;
+  margin-top: 150px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 100px;
+  color: #000;
+}
+
+.green-text {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #96bb7c;
+}
+.layout1-text h2 {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #252b42;
+}
+.newtonion {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #737373;
+}
+.layout1-carousel {
+  width: 501px;
+  height: Fill (402px) px;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 20px;
+  padding: 50px 0 0 15px;
+
+}

@@ -1,0 +1,44 @@
+.advertise-container {
+  width: 1050px;
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-bottom: 100px;
+}
+
+.green-text {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #96bb7c;
+}
+.courses-text h3 {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+
+  color: #252b42;
+}
+.newtonion {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #737373;
+}
+
+.advertise-card {
+  width: Fixed (508px) px;
+  display: flex;
+  align-items: start;
+  margin-top: 90px;
+}
+
